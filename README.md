@@ -7,6 +7,21 @@ With over **2 years of experience**, I've developed and deployed multiple produc
 
 ---
 
+## 📌 Featured Projects
+
+### 🔹 [QuantViz](https://github.com/yourusername/QuantViz)
+Real-time industrial violation monitoring with **FastAPI, React, MongoDB** and **OpenAI Chatbot**.
+
+### 🔹 [PearlGlobal Digital Library](https://github.com/yourusername/PearlGlobal)
+High-definition image library for clothing brands with **PDF/PPT/Excel exports** and annotation features.
+
+### 🔹 [Safety Automation System](https://github.com/yourusername/Safety-Automation)
+Camera feed processing with **OpenCV** (histogram equalization, rotation, cropping) and **FastAPI backend**.
+
+### 🔹 [3D Product Tour](https://github.com/yourusername/3D-Product-Tour)
+Immersive 3D/VR product showcase using **A-Frame, Three.js, React-Aframe**.
+
+---
 
 ## SKILLS
 
@@ -60,7 +75,7 @@ With over **2 years of experience**, I've developed and deployed multiple produc
 
 
 ## 📫 Connect With Me
-- **Portfolio/Website:** [quantictech.ai](https://quantictech.ai)
+- **Portfolio/Website:** [Deep Kumar Portfolio](https://deepkumar-portfolio.netlify.app/)
 - **LinkedIn:** [Deep Kumar V](https://linkedin.com/in/deep-kumar-v/)
 - **Email:** deepupoovai@gmail.com
 
