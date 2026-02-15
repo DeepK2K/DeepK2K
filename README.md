@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=200&section=header&text=Deep%20Kumar%20V&fontSize=40&fontColor=ffffff&animation=fadeIn" alt="Deep Kumar V Banner"/>
 </p>
 
-<h2 align="center">💻 Fullstack Web Developer | ⚡ AI & Computer Vision Enthusiast | ☁ Cloud Deployment Expert</h2>
+<h2 align="center">💻 Full Stack Engineer | ⚡ AI Systems Integration | ☁ Cloud & Deployment Specialist</h2>
 
 <p align="center">
 I build <b>real-time, scalable, AI-powered applications</b> using <b>MERN Stack, FastAPI, and Python</b>.<br/>
