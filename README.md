@@ -9,6 +9,13 @@
 I build <b>real-time, scalable, AI-powered applications</b> using <b>MERN Stack, FastAPI, and Python</b>.<br/>
 With over <b>2 years of experience</b>, I've deployed production-grade apps on <b>AWS EC2/S3</b> and client-local environments.
 </p>
+🧠 What I Specialize In
+
+- AI systems integration & inference pipeline orchestration
+- Real-time dashboard architecture (WebSockets, MongoDB Change Streams)
+- Role-Based Access Control (RBAC) for enterprise platforms
+- Configurable AI deployment workflows
+- AWS & On-Prem production deployments
 
 ---
 
